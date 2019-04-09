@@ -4,4 +4,4 @@ y= int("deuxieme valeur")
 
 moyenne= (x+y)/2
 
-print ("moyenne")
+print ("moyenne est de",moyenne)
