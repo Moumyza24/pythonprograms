@@ -8,4 +8,4 @@ y= int("saisir deuxieme valeur")
 
 moyenne= (x+y)/2
 
-print ("moyenne est de" +str(result))
+print ("moyenne est de" +(result))
