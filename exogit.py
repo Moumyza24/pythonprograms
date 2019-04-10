@@ -1,6 +1,10 @@
-x= int("premiere valeur")
+x= 5
 
-y= int("deuxieme valeur")
+y=2
+
+x= int(" saisir premiere valeur")
+
+y= int("saisir deuxieme valeur")
 
 moyenne= (x+y)/2
 
