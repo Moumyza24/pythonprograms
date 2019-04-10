@@ -1,12 +1,13 @@
-x= 5
 
-y=2
+x = int(input("prmiere valeur"))
 
-x= int ("5")
+y = int(input("deuxieme valeur"))
 
-y= int ("2")
+somme = x + y
 
-moyenne= input (x+y)/2
+moyenne = int((x+y)/2)
 
-print ("moyenne est de")
+print("somme est de")
+
+print("moyenne \n")
 

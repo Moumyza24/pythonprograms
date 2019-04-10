@@ -1,15 +1,13 @@
 Ecrire un programme python qui permet de verifier si le nombre d utilisateur est pair ou impair
 
-a= input ("nombre pair")
+a= int(input("nombre pair : "))
 
-b= input ("nombre impair")
+if a%2 == 0:
 
-if: ("nombre pair") alors
+         print("le nombre est pair")
 
- print("Laiser passer")
+else:
 
-else: "(nombre impair") alors
-
- print("Bloquer")
+         print("le nombre est impair")
 
 
