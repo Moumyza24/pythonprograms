@@ -2,10 +2,11 @@ x= 5
 
 y=2
 
-x= int(" saisir premiere valeur")
+x= int ("5")
 
-y= int("saisir deuxieme valeur")
+y= int ("2")
 
-moyenne= (x+y)/2
+moyenne= input (x+y)/2
 
-print ("moyenne est de" +(result))
+print ("moyenne est de")
+
